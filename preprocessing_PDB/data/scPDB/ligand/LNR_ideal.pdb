@@ -1,0 +1,47 @@
+ATOM      1  OAC LNR A   1      -2.658  -1.817  -0.217  1.00 10.00           O
+ATOM      2  CAJ LNR A   1      -1.776  -0.786  -0.124  1.00 10.00           C
+ATOM      3  CAG LNR A   1      -0.424  -1.008  -0.333  1.00 10.00           C
+ATOM      4  CAI LNR A   1      -2.230   0.495   0.176  1.00 10.00           C
+ATOM      5  OAB LNR A   1      -3.556   0.719   0.377  1.00 10.00           O
+ATOM      6  CAE LNR A   1      -1.327   1.542   0.270  1.00 10.00           C
+ATOM      7  CAF LNR A   1       0.021   1.313   0.066  1.00 10.00           C
+ATOM      8  CAK LNR A   1       0.471   0.042  -0.237  1.00 10.00           C
+ATOM      9  CAL LNR A   1       1.941  -0.201  -0.465  1.00 10.00           C
+ATOM     10  OAD LNR A   1       2.518   0.938  -1.107  1.00 10.00           O
+ATOM     11  CAH LNR A   1       2.633  -0.435   0.879  1.00 10.00           C
+ATOM     12  NAA LNR A   1       4.066  -0.672   0.657  1.00 10.00           N
+ATOM     13 HOAC LNR A   1      -3.015  -1.950  -1.106  1.00 10.00           H
+ATOM     14  HAG LNR A   1      -0.070  -2.000  -0.570  1.00 10.00           H
+ATOM     15 HOAB LNR A   1      -3.837   0.618   1.297  1.00 10.00           H
+ATOM     16  HAE LNR A   1      -1.677   2.537   0.502  1.00 10.00           H
+ATOM     17  HAF LNR A   1       0.724   2.130   0.139  1.00 10.00           H
+ATOM     18  HAL LNR A   1       2.070  -1.079  -1.098  1.00 10.00           H
+ATOM     19 HOAD LNR A   1       2.440   1.757  -0.599  1.00 10.00           H
+ATOM     20  HAH LNR A   1       2.504   0.443   1.512  1.00 10.00           H
+ATOM     21 HAHA LNR A   1       2.193  -1.304   1.368  1.00 10.00           H
+ATOM     22 HNAA LNR A   1       4.484   0.092   0.147  1.00 10.00           H
+ATOM     23 HNAB LNR A   1       4.546  -0.829   1.531  1.00 10.00           H
+CONECT    1    2   13
+CONECT    2    1    3    4
+CONECT    3    2    8   14
+CONECT    4    2    5    6
+CONECT    5    4   15
+CONECT    6    4    7   16
+CONECT    7    6    8   17
+CONECT    8    3    7    9
+CONECT    9    8   10   11   18
+CONECT   10    9   19
+CONECT   11    9   12   20   21
+CONECT   12   11   22   23
+CONECT   13    1
+CONECT   14    3
+CONECT   15    5
+CONECT   16    6
+CONECT   17    7
+CONECT   18    9
+CONECT   19   10
+CONECT   20   11
+CONECT   21   11
+CONECT   22   12
+CONECT   23   12
+END   

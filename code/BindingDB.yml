@@ -1,0 +1,67 @@
+Path:
+    Ki_df: "../input_data/BindingDB/Ki_data.tsv"
+    Ki_protein_feat: "../input_data/BindingDB/Ki_protein_features.pkl"
+    Ki_pockets: "../input_data/BindingDB/Ki_pockets.pkl"
+    Ki_save_path: "../model_checkpoint/BindingDB/Ki/"
+    Ki_random_split: "../input_data/BindingDB/Ki_random_split_indices.pkl"
+    Ki_new_protein: "../input_data/BindingDB/Ki_new_protein_indices.pkl"
+    Ki_new_compound: "../input_data/BindingDB/Ki_new_compound_indices.pkl"
+    Ki_blind_split: "../input_data/BindingDB/Ki_blind_split_indices.pkl"
+    Ki_interaction_site_predictor: "../model_checkpoint/PDBbind/CV4/BlendNet_T.pth"
+    Ki_results: "../results/BindingDB/BlendNet-S/Ki/"
+    
+    IC50_df: "../input_data/BindingDB/IC50_data.tsv"
+    IC50_protein_feat: "../input_data/BindingDB/IC50_protein_features.pkl"
+    IC50_pockets: "/data2/proposed_method/v2/results/PDBbind/pocket_predictions/IC50_pocket.pkl"
+    IC50_save_path: "../model_checkpoint/BindingDB/IC50/"
+    IC50_random_split: "../input_data/BindingDB/IC50_random_split_indices.pkl"
+    IC50_new_protein: "../input_data/BindingDB/IC50_new_protein_indices.pkl"
+    IC50_new_compound: "../input_data/BindingDB/IC50_new_compound_indices.pkl"
+    IC50_blind_split: "../input_data/BindingDB/IC50_blind_split_indices.pkl"
+    IC50_interaction_site_predictor: "../model_checkpoint/PDBbind/CV2/BlendNet_T.pth"
+    IC50_results: "../results/BindingDB/BlendNet-S/IC50/"
+    
+    Ligand_graph: "../input_data/BindingDB/BindingDB_graph_data.pt"
+    Compound_encoder: "../model_checkpoint/compound/MGraphPretraingEncoder.pth"
+
+Train:
+    device: 0
+    seed: 0
+    batch_size: 32
+    epochs: 200
+    KD: False
+    lr: 0.001
+    decay: 0.0
+    patience: 15
+
+MGraphModel:
+    Architecture: {"target_dim": 256,
+                   "hidden_dim": 256,
+                   "mid_batch_norm": True,
+                   "last_batch_norm": True,
+                   "readout_batchnorm": True,
+                   "batch_norm_momentum": 0.93,
+                   "readout_hidden_dim": 256,
+                   "readout_layers": 2,
+                   "dropout": 0.0,
+                   "propagation_depth": 3,
+                   "aggregators": ['mean', 'max', 'min', 'std'],
+                   "scalers": ['identity', 'amplification', 'attenuation'],
+                   "readout_aggregators": ['min', 'max', 'mean'],
+                   "pretrans_layers": 2,
+                   "posttrans_layers": 1,
+                   "residual": True}
+                
+CrossAttention:
+    Architecture: {"num_layer": 2,
+                   "hidden_size": 256, 
+                   "intermediate_size": 512,
+                   "num_attention_heads": 4, 
+                   "hidden_act": gelu}
+    Train: {dropout: 0.0}     
+
+InteractionSite:
+    Architecture: {"hidden_size": 256, 
+                   "intermediate_size": 512,
+                   "num_attention_heads": 4, 
+                   "dropout": 0.0}

@@ -1,0 +1,104 @@
+Path:
+    KFold: "../input_data/PDB/BA/kfold_indices.pkl"
+    Training_df: "../input_data/PDB/BA/Training_BA_data.tsv"
+    Training_protein_feat: "../input_data/PDB/BA/Training_protein_features.pkl"
+    Training_pocket: "../input_data/PDB/BA/Training_pockets.pkl"
+    Training_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    Training_interaction: "../input_data/PDB/interaction_sites/Training_nonh_interactions.pkl"
+    Compound_encoder: "../model_checkpoint/compound/MGraphPretraingEncoder.pth"
+    save_path: "../model_checkpoint/PDBbind/"
+    
+    CASF2016_df: "../input_data/PDB/BA/CASF2016_BA_data.tsv"
+    CASF2016_protein_feat: "../input_data/PDB/BA/CASF2016_protein_features.pkl"
+    CASF2016_pocket: "../input_data/PDB/BA/CASF2016_pockets.pkl"
+    CASF2016_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    CASF2016_interaction: "../input_data/PDB/interaction_sites/CASF2016_nonh_interactions.pkl"
+
+    CASF2013_df: "../input_data/PDB/BA/CASF2013_BA_data.tsv"
+    CASF2013_protein_feat: "../input_data/PDB/BA/CASF2013_protein_features.pkl"
+    CASF2013_pocket: "../input_data/PDB/BA/CASF2013_pockets.pkl"
+    CASF2013_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    CASF2013_interaction: "../input_data/PDB/interaction_sites/CASF2013_nonh_interactions.pkl"
+
+    CSAR2014_df: "../input_data/PDB/BA/CSAR2014_BA_data.tsv"
+    CSAR2014_protein_feat: "../input_data/PDB/BA/CSAR2014_protein_features.pkl"
+    CSAR2014_pocket: "../input_data/PDB/BA/CSAR2014_pockets.pkl"
+    CSAR2014_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    CSAR2014_interaction: "../input_data/PDB/interaction_sites/CSAR2014_nonh_interactions.pkl"
+    
+    CSAR2012_df: "../input_data/PDB/BA/CSAR2012_BA_data.tsv"
+    CSAR2012_protein_feat: "../input_data/PDB/BA/CSAR2012_protein_features.pkl"
+    CSAR2012_pocket: "../input_data/PDB/BA/CSAR2012_pockets.pkl"
+    CSAR2012_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    CSAR2012_interaction: "../input_data/PDB/interaction_sites/CSAR2012_nonh_interactions.pkl"
+    
+    CSARset1_df: "../input_data/PDB/BA/CSARset1_BA_data.tsv"
+    CSARset1_protein_feat: "../input_data/PDB/BA/CSARset1_protein_features.pkl"
+    CSARset1_pocket: "../input_data/PDB/BA/CSARset1_pockets.pkl"
+    CSARset1_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    CSARset1_interaction: "../input_data/PDB/interaction_sites/CSARset1_nonh_interactions.pkl"
+    
+    CSARset2_df: "../input_data/PDB/BA/CSARset2_BA_data.tsv"
+    CSARset2_protein_feat: "../input_data/PDB/BA/CSARset2_protein_features.pkl"
+    CSARset2_pocket: "../input_data/PDB/BA/CSARset2_pockets.pkl"
+    CSARset2_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    CSARset2_interaction: "../input_data/PDB/interaction_sites/CSARset2_nonh_interactions.pkl"
+    
+    Astex_df: "../input_data/PDB/BA/Astex_BA_data.tsv"
+    Astex_protein_feat: "../input_data/PDB/BA/Astex_protein_features.pkl"
+    Astex_pocket: "../input_data/PDB/BA/Astex_pockets.pkl"
+    Astex_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    Astex_interaction: "../input_data/PDB/interaction_sites/Astex_nonh_interactions.pkl"
+
+    COACH420_df: "../input_data/PDB/BA/COACH420_IS_data.tsv"
+    COACH420_protein_feat: "../input_data/PDB/BA/COACH420_protein_features.pkl"
+    COACH420_pocket: "../input_data/PDB/BA/COACH420_pockets.pkl"
+    COACH420_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    COACH420_interaction: "../input_data/PDB/interaction_sites/COACH420_nonh_interactions.pkl"
+    
+    HOLO4K_df: "../input_data/PDB/BA/HOLO4K_IS_data.tsv"
+    HOLO4K_protein_feat: "../input_data/PDB/BA/HOLO4K_protein_features.pkl"
+    HOLO4K_pocket: "../input_data/PDB/BA/HOLO4K_pockets.pkl"
+    HOLO4K_ligand_graph: "../input_data/PDB/BA/PDB_graph_data.pt"
+    HOLO4K_interaction: "../input_data/PDB/interaction_sites/HOLO4K_nonh_interactions.pkl"
+
+Train:
+    device: 0
+    seed: 0
+    batch_size: 32
+    epochs: 200
+    lr: 0.001
+    decay: 0.0
+    patience: 45
+
+MGraphModel:
+    Architecture: {"target_dim": 256,
+                   "hidden_dim": 256,
+                   "mid_batch_norm": True,
+                   "last_batch_norm": True,
+                   "readout_batchnorm": True,
+                   "batch_norm_momentum": 0.93,
+                   "readout_hidden_dim": 256,
+                   "readout_layers": 2,
+                   "dropout": 0.0,
+                   "propagation_depth": 3,
+                   "aggregators": ['mean', 'max', 'min', 'std'],
+                   "scalers": ['identity', 'amplification', 'attenuation'],
+                   "readout_aggregators": ['min', 'max', 'mean'],
+                   "pretrans_layers": 2,
+                   "posttrans_layers": 1,
+                   "residual": True}
+                
+CrossAttention:
+    Architecture: {"num_layer": 2,
+                   "hidden_size": 256, 
+                   "intermediate_size": 512,
+                   "num_attention_heads": 4, 
+                   "hidden_act": gelu}
+    Train: {dropout: 0.0}     
+
+InteractionSite:
+    Architecture: {"hidden_size": 256, 
+                   "intermediate_size": 512,
+                   "num_attention_heads": 4, 
+                   "dropout": 0.0}

@@ -1,0 +1,76 @@
+PDB code	Target	Compound	Ligand code	Measure	Potency	Unit	Source	Convert potency
+1gm8	penicillin G acylase	PGSO	SOX	Km	16	uM	Paper	4.80
+1gpk	acetylcholinesterase	huperzine A	HUP	Ki	4.3	uM	Paper	5.37
+1hnn	phenylethanolamine N-methyltransferase	SK&F29661	SKF	Ki	0.58	uM	Paper	6.24
+1hp0	purine specific nucleoside hydrolase	3-deaza-adenosine	AD3	Ki	0.2	uM	Paper	6.70
+1hq2	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase	HP	PH2	Kd	0.17	uM	Paper	6.77
+1hvy	thymidylate synthase	tomudex	D16	IC50	670	nM	paper	6.17
+1hwi	HMG-CoA reductase	fluvastatin	115	IC50	0.028	uM	Paper	7.55
+1hww	alpha-mannosidase II	swainsonine	SWA	IC50	0.02	uM	Paper	7.70
+1ia1	dihydrofolate reductase	compound3	TQ3	IC50	0.034	uM	Paper	7.47
+1j3j	dihydrofolate reductase	pyrimethamine	CP6	Ki	0.0098	uM	Paper	8.01
+1jd0	carbonic anhydrase XII	acetazolamide	AZM	Ki	0.0057	uM	Paper	8.24
+1jje	metallo beta-lactamase	compound11	BYS	IC50	0.0037	uM	Paper	8.43
+1ke5	cyclin-dependent kinase2	compound98	LS1	IC50	0.56	uM	Paper	6.25
+1kzk	HIV-1 protease	JE-2147(alsonamedAG1776 orKNI-764)	JE2	Ki	0.04	nM	PDB	10.40
+1l2s	beta-lactamase	compound1	STC	Ki	26	uM	Paper	4.59
+1l7f	neuraminidase A	BCX-1812	BCZ	IC50	0.0008	uM	Paper	9.10
+1lpz	factor Xa	compound41	CMB	Ki	0.025	uM	Paper	7.60
+1lrh	auxin-bindingprotein 1	1-naphthaleneaceticacid	NLA	Kd	150	nM	PDB	6.82
+1m2z	glucocorticoid receptor	dexamethasone	DEX	Kd	0.06	uM	Paper	7.22
+1mmv	neuronal nitric-oxide synthase	NG-propyl-L-arginine	3AR	Ki	0.057	uM	Paper	7.24
+1mzc	protein farnesyltransferase	compound33a	BNE	IC50	0.00006	uM	Paper	10.22
+1n1m	dipeptidyl peptidase IV	valine-pyrrolidine	A3M	Ki	2	uM	Paper	5.70
+1n2v	tRNA-guanine transglycosylase	compound6	BDI	Ki	83	uM	Paper	4.08
+1n46	thyroid hormone receptor beta1	compound3	PFA	Ki	0.00003	uM	Paper	10.52
+1nav	thyroid hormone receptor alpha1	compound15	IH5	IC50	0.025	uM	Paper	7.60
+1of1	thymidine kinase	(S)-MCT	SCT	IC50	15000 	nM	PDB	4.82
+1of6	DAHP synthase	tyrosine	DTY	Ki	0.9	uM	Paper	6.05
+1opk	c-Abl tyrosine kinase	PD166326	P16	IC50	0.00015	uM	Paper	9.82
+1oq5	carbonic anhydrase II	celecoxib	CEL	IC50	21	nM	PDB	7.68
+1owe	urokinase	compound6	675	Ki	0.631	uM	Paper	6.20
+1oyt	thrombin	compound4	FSN	Ki	0.057	uM	Paper	7.24
+1p2y	cytochrome P450cam	nicotine	NCT	Ks	10	uM	Paper	5.00
+1p62	deoxycytidine kinase	gemcitabine	GEO	Km	22	uM	Paper	4.66
+1pmn	c-Junterminal kinase 3	compound1	984	IC50	0.007	uM	Paper	8.15
+1q1g	purine nucleoside phosphorylase	MT-ImmH	MTI	Kd	0.0027	uM	Paper	8.57
+1q41	glycogen synthase kinase 3beta	indirubin-3′-monoxime	IXM	IC50	0.022	uM	Paper	7.66
+1q4g	prostaglandin H2 synthase 1	alpha-methyl-4-biphenylaceticacid	BFL	Ki	0.13	uM	Paper	6.89
+1r1h	neprilysin	compound1	BIR	Ki	0.0012	uM	Paper	8.92
+1r55	ADAM33	marimastat	097	Ki	0.16	uM	Paper	6.80
+1r58	methionine aminopeptidase 2	A357300	AO5	IC50	0.11	uM	Paper	6.96
+1r9o	cytochrome P450 2C9	flurbiprofen	FLP	Ks	9.6	uM	Paper	5.02
+1s19	vitamin D nuclear receptor	calcipotriol	MC9	Kd	0.31	nM	PDB	9.51
+1s3v	dihydrofolate reductase	compound2	TQD	IC50	0.038	uM	Paper	7.42
+1sg0	quinone reductase 2	resveratrol	STL	Kd	0.034	uM	Paper	7.47
+1sj0	estrogen receptor alpha	compound4-D	E4D	IC50	0.0008	uM	Paper	9.10
+1sq5	pantothenate kinase	pantothenate	PAU	Km	41	uM	Paper	4.39
+1sqn	progesterone receptor	norethindrone	NDR	Kd	0.0004	uM	Paper	9.40
+1t40	aldose reductase	IDD552	ID5	IC50	0.011	uM	Paper	7.96
+1t46	c-kit tyrosine kinase	gleevec	STI	IC50	413	nM	PDB	6.38
+1t9b	acetohydroxyacid synthase	chlorsulfuron	1CS	Ki	0.127	uM	Paper	6.90
+1tow	adipocyte fatty acid-binding protein	compound1	CRZ	IC50	0.57	uM	Paper	6.24
+1tt1	glutamate receptor 6	kainate	KAI	Ki	64.6	nM	PDB	7.19
+1u1c	uridine phosphorylase	5-benzyl-acyclouridine	BAU	Ki	4.3	uM	Paper	5.37
+1uml	adenosine deaminase	compound4c	FR4	Ki	0.03	uM	Paper	7.52
+1unl	cyclin-dependent kinase 5	(R)-roscovitine	RRC	IC50	0.2	uM	Paper	6.70
+1uou	thymidine phosphorylase	TPI	CMU	IC50	0.02	uM	Paper	7.70
+1v0p	protein kinase 5	purvalanolB	PVB	IC50	0.13	uM	Paper	6.89
+1v48	purine nucleoside phosphorylase	DFPP-G	HA1	Ki	6.9	nM	PDB	8.16
+1v4s	glucokinase	compoundA	MRK	Kd	360	nM	PDB	6.44
+1vcj	neuraminidase B	BANA207	IBA	IC50	26	uM	Paper	4.59
+1w1p	chitinase B	cyclo-(gly-L-pro)	GIO	IC50	5000	uM	Paper	2.30
+1w2g	thymidylate kinase	deoxythymidine	THM	Ki	27	uM	Paper	4.57
+1xm6	phosphodiesterase 4B	(R)-mesopram	5RM	IC50	0.42	uM	Paper	6.38
+1xoq	phosphodiesterase 4D	roflumilast	ROF	IC50	0.00068	uM	Paper	9.17
+1xoz	phosphodiesterase 5A	tadalafil	CIA	IC50	0.0012	uM	Paper	8.92
+1y6b	vascular endothelial growth factor receptor 2	compound46	AAX	IC50	0.038	uM	Paper	7.42
+1ygc	factor VIIa	G17905	905	Ki	0.00035	uM	Paper	9.46
+1yqy	lethal factor	hydroxamateLFI	915	Ki	0.024	uM	Paper	7.62
+1yv3	myosin II	blebbistatin	BIT	IC50	4.9	uM	Paper	5.31
+1yvf	NS5B polymerase	compound59	PH7	IC50	0.1	uM	Paper	7.00
+1ywr	p38 kinase	compound15d	LI9	IC50	32	nM	Paper	7.49
+1z95	androgen receptor	R-bicalutamide	198	Ki	0.076	uM	Paper	7.12
+2bm2	beta II tryptase	compound16b	PM2	Ki	0.015	uM	Paper	7.82
+2br1	Chk1	compound1	PFP	Ki	7200	nM	PDB	5.14
+2bsm	heat shock protein 90	compound11(VER49009)	BSM	IC50	1500	nM	PDB	5.82

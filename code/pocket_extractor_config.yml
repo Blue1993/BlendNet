@@ -1,0 +1,24 @@
+Path:
+    training: "../input_data/PDB/BS/Training_BS_labels.tsv"
+    prot_feats: "../input_data/PDB/BS/Training_BS_protein_features.pkl"
+
+    save_path: "../model_checkpoint/pocket/"
+    check_point: "../../model_checkpoint/pocket/CV1/pocket_extractor.pth"
+    
+Train:
+    epochs: 100
+    batch_size: 32
+    dropout: 0.3
+    patience: 20
+    seed: 0
+    device: 0
+    
+Architecture:
+    hidden_size: 256
+    prots_input_dim: 1024
+    num_layer: 3
+    hidden_act: gelu
+    hidden_size: 256
+    intermediate_size: 512
+    num_attention_heads: 8
+    max_lengths: 1500

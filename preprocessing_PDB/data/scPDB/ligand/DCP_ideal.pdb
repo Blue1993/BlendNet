@@ -1,0 +1,89 @@
+ATOM      1  N1  DCP A   1       0.303   0.627  -5.169  1.00 10.00           N
+ATOM      2  C2  DCP A   1       0.794  -0.618  -5.038  1.00 10.00           C
+ATOM      3  N3  DCP A   1       1.857  -1.015  -5.735  1.00 10.00           N
+ATOM      4  C4  DCP A   1       2.460  -0.189  -6.579  1.00 10.00           C
+ATOM      5  C5  DCP A   1       1.974   1.124  -6.736  1.00 10.00           C
+ATOM      6  C6  DCP A   1       0.889   1.511  -6.025  1.00 10.00           C
+ATOM      7  O2  DCP A   1       0.257  -1.397  -4.267  1.00 10.00           O
+ATOM      8  N4  DCP A   1       3.558  -0.610  -7.293  1.00 10.00           N
+ATOM      9  C1' DCP A   1      -0.867   1.034  -4.389  1.00 10.00           C
+ATOM     10  C2' DCP A   1      -2.064   0.124  -4.725  1.00 10.00           C
+ATOM     11  C3' DCP A   1      -2.458  -0.501  -3.365  1.00 10.00           C
+ATOM     12  C4' DCP A   1      -1.837   0.497  -2.356  1.00 10.00           C
+ATOM     13  O4' DCP A   1      -0.595   0.887  -2.985  1.00 10.00           O
+ATOM     14  O3' DCP A   1      -3.879  -0.554  -3.221  1.00 10.00           O
+ATOM     15  C5' DCP A   1      -1.573  -0.187  -1.013  1.00 10.00           C
+ATOM     16  O5' DCP A   1      -1.000   0.753  -0.103  1.00 10.00           O
+ATOM     17  PA  DCP A   1      -0.750  -0.030   1.280  1.00 10.00           P
+ATOM     18  O1A DCP A   1      -2.039  -0.543   1.796  1.00 10.00           O
+ATOM     19  O2A DCP A   1       0.254  -1.262   1.025  1.00 10.00           O
+ATOM     20  O3A DCP A   1      -0.103   0.975   2.358  1.00 10.00           O
+ATOM     21  PB  DCP A   1       0.118   0.129   3.709  1.00 10.00           P
+ATOM     22  O1B DCP A   1      -1.183  -0.386   4.188  1.00 10.00           O
+ATOM     23  O2B DCP A   1       1.109  -1.104   3.413  1.00 10.00           O
+ATOM     24  O3B DCP A   1       0.766   1.079   4.836  1.00 10.00           O
+ATOM     25  PG  DCP A   1       0.960   0.173   6.153  1.00 10.00           P
+ATOM     26  O1G DCP A   1       1.857  -0.961   5.843  1.00 10.00           O
+ATOM     27  O2G DCP A   1       1.608   1.064   7.327  1.00 10.00           O
+ATOM     28  O3G DCP A   1      -0.470  -0.388   6.633  1.00 10.00           O
+ATOM     29  H5  DCP A   1       2.454   1.809  -7.420  1.00 10.00           H
+ATOM     30  H6  DCP A   1       0.494   2.511  -6.131  1.00 10.00           H
+ATOM     31 HN41 DCP A   1       3.893  -1.513  -7.180  1.00 10.00           H
+ATOM     32 HN42 DCP A   1       3.995  -0.005  -7.913  1.00 10.00           H
+ATOM     33  H1' DCP A   1      -1.118   2.072  -4.611  1.00 10.00           H
+ATOM     34 H2'1 DCP A   1      -2.889   0.711  -5.128  1.00 10.00           H
+ATOM     35 H2'2 DCP A   1      -1.767  -0.652  -5.430  1.00 10.00           H
+ATOM     36  H3' DCP A   1      -2.020  -1.493  -3.251  1.00 10.00           H
+ATOM     37  H4' DCP A   1      -2.486   1.362  -2.223  1.00 10.00           H
+ATOM     38 HO3' DCP A   1      -4.211  -1.118  -3.933  1.00 10.00           H
+ATOM     39 H5'1 DCP A   1      -2.511  -0.562  -0.606  1.00 10.00           H
+ATOM     40 H5'2 DCP A   1      -0.882  -1.018  -1.159  1.00 10.00           H
+ATOM     41 HOA2 DCP A   1       1.079  -0.885   0.690  1.00 10.00           H
+ATOM     42 HOB2 DCP A   1       1.943  -0.725   3.105  1.00 10.00           H
+ATOM     43 HOG2 DCP A   1       1.706   0.486   8.095  1.00 10.00           H
+ATOM     44 HOG3 DCP A   1      -1.023   0.381   6.824  1.00 10.00           H
+CONECT    1    2    6    9
+CONECT    2    1    3    7
+CONECT    3    2    4
+CONECT    4    3    5    8
+CONECT    5    4    6   29
+CONECT    6    1    5   30
+CONECT    7    2
+CONECT    8    4   31   32
+CONECT    9    1   10   13   33
+CONECT   10    9   11   34   35
+CONECT   11   10   12   14   36
+CONECT   12   11   13   15   37
+CONECT   13    9   12
+CONECT   14   11   38
+CONECT   15   12   16   39   40
+CONECT   16   15   17
+CONECT   17   16   18   19   20
+CONECT   18   17
+CONECT   19   17   41
+CONECT   20   17   21
+CONECT   21   20   22   23   24
+CONECT   22   21
+CONECT   23   21   42
+CONECT   24   21   25
+CONECT   25   24   26   27   28
+CONECT   26   25
+CONECT   27   25   43
+CONECT   28   25   44
+CONECT   29    5
+CONECT   30    6
+CONECT   31    8
+CONECT   32    8
+CONECT   33    9
+CONECT   34   10
+CONECT   35   10
+CONECT   36   11
+CONECT   37   12
+CONECT   38   14
+CONECT   39   15
+CONECT   40   15
+CONECT   41   19
+CONECT   42   23
+CONECT   43   27
+CONECT   44   28
+END   

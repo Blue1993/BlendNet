@@ -1,0 +1,1836 @@
+target_name: 4fud_A
+query_name: 4fud_A_P00749
+optimal_alignment_score: 1703	suboptimal_alignment_score: 206	strand: +	target_begin: 1	target_end: 246	query_begin: 179	query_end: 424
+
+Target:       1	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      179	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	238
+
+Target:      61	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      239	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	298
+
+Target:     121	ALPSMYNDPQFGTSCEITGFGKEQSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	180
+               	*||||||||||||||||||||||*||||||||||||||||||||||||||||||||||||
+Query:      299	CLPSMYNDPQFGTSCEITGFGKENSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	358
+
+Target:     181	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      359	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	418
+
+Target:     241	IRSHTK	246
+               	||||||
+Query:      419	IRSHTK	424
+
+target_name: 4fue_A
+query_name: 4fue_A_P00749
+optimal_alignment_score: 1703	suboptimal_alignment_score: 206	strand: +	target_begin: 1	target_end: 246	query_begin: 179	query_end: 424
+
+Target:       1	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      179	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	238
+
+Target:      61	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      239	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	298
+
+Target:     121	ALPSMYNDPQFGTSCEITGFGKEQSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	180
+               	*||||||||||||||||||||||*||||||||||||||||||||||||||||||||||||
+Query:      299	CLPSMYNDPQFGTSCEITGFGKENSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	358
+
+Target:     181	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      359	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	418
+
+Target:     241	IRSHTK	246
+               	||||||
+Query:      419	IRSHTK	424
+
+target_name: 4fu7_A
+query_name: 4fu7_A_P00749
+optimal_alignment_score: 1703	suboptimal_alignment_score: 206	strand: +	target_begin: 1	target_end: 246	query_begin: 179	query_end: 424
+
+Target:       1	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      179	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	238
+
+Target:      61	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      239	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	298
+
+Target:     121	ALPSMYNDPQFGTSCEITGFGKEQSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	180
+               	*||||||||||||||||||||||*||||||||||||||||||||||||||||||||||||
+Query:      299	CLPSMYNDPQFGTSCEITGFGKENSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	358
+
+Target:     181	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      359	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	418
+
+Target:     241	IRSHTK	246
+               	||||||
+Query:      419	IRSHTK	424
+
+target_name: 4fu8_A
+query_name: 4fu8_A_P00749
+optimal_alignment_score: 1703	suboptimal_alignment_score: 206	strand: +	target_begin: 1	target_end: 246	query_begin: 179	query_end: 424
+
+Target:       1	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      179	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	238
+
+Target:      61	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      239	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	298
+
+Target:     121	ALPSMYNDPQFGTSCEITGFGKEQSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	180
+               	*||||||||||||||||||||||*||||||||||||||||||||||||||||||||||||
+Query:      299	CLPSMYNDPQFGTSCEITGFGKENSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	358
+
+Target:     181	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      359	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	418
+
+Target:     241	IRSHTK	246
+               	||||||
+Query:      419	IRSHTK	424
+
+target_name: 4fu9_A
+query_name: 4fu9_A_P00749
+optimal_alignment_score: 1703	suboptimal_alignment_score: 206	strand: +	target_begin: 1	target_end: 246	query_begin: 179	query_end: 424
+
+Target:       1	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      179	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	238
+
+Target:      61	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      239	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	298
+
+Target:     121	ALPSMYNDPQFGTSCEITGFGKEQSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	180
+               	*||||||||||||||||||||||*||||||||||||||||||||||||||||||||||||
+Query:      299	CLPSMYNDPQFGTSCEITGFGKENSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	358
+
+Target:     181	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      359	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	418
+
+Target:     241	IRSHTK	246
+               	||||||
+Query:      419	IRSHTK	424
+
+target_name: 4fub_A
+query_name: 4fub_A_P00749
+optimal_alignment_score: 1703	suboptimal_alignment_score: 206	strand: +	target_begin: 1	target_end: 246	query_begin: 179	query_end: 424
+
+Target:       1	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      179	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	238
+
+Target:      61	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      239	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	298
+
+Target:     121	ALPSMYNDPQFGTSCEITGFGKEQSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	180
+               	*||||||||||||||||||||||*||||||||||||||||||||||||||||||||||||
+Query:      299	CLPSMYNDPQFGTSCEITGFGKENSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	358
+
+Target:     181	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      359	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	418
+
+Target:     241	IRSHTK	246
+               	||||||
+Query:      419	IRSHTK	424
+
+target_name: 4fuc_A
+query_name: 4fuc_A_P00749
+optimal_alignment_score: 1703	suboptimal_alignment_score: 206	strand: +	target_begin: 1	target_end: 246	query_begin: 179	query_end: 424
+
+Target:       1	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      179	IIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVY	238
+
+Target:      61	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      239	LGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHNDIALLKIRSKEGRCAQPSRTIQTI	298
+
+Target:     121	ALPSMYNDPQFGTSCEITGFGKEQSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	180
+               	*||||||||||||||||||||||*||||||||||||||||||||||||||||||||||||
+Query:      299	CLPSMYNDPQFGTSCEITGFGKENSTDYLYPEQLKMTVVKLISHRECQQPHYYGSEVTTK	358
+
+Target:     181	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      359	MLCAADPQWKTDSCQGDSGGPLVCSLQGRMTLTGIVSWGRGCALKDKPGVYTRVSHFLPW	418
+
+Target:     241	IRSHTK	246
+               	||||||
+Query:      419	IRSHTK	424
+
+target_name: 4fsm_A
+query_name: 4fsm_A_O14757
+optimal_alignment_score: 1797	suboptimal_alignment_score: 166	strand: +	target_begin: 1	target_end: 265	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTLGE---GEVQLAVNRVTEEAVAVKIV----------NIKKEICINKML	47
+               	|||||||||||||||   ||||||||||||||||||||          ||||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      48	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	107
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     108	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	167
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     168	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	227
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     228	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	265
+               	||||||||||||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4fsw_A
+query_name: 4fsw_A_O14757
+optimal_alignment_score: 1790	suboptimal_alignment_score: 170	strand: +	target_begin: 1	target_end: 265	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTLGEG--GEVQLAVNRVTEEAVAVKIV----------NIKKEICINKML	48
+               	||||||||||||||||  ||||||||||||||||||||          ||||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      49	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	108
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     109	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKM-GTLPYVAPELLKRR	167
+               	||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     168	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	227
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     228	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	265
+               	||||||||||||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4ft5_A
+query_name: 4ft5_A_O14757
+optimal_alignment_score: 1798	suboptimal_alignment_score: 162	strand: +	target_begin: 1	target_end: 265	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTL-----GEVQLAVNRVTEEAVAVKIVDM--------NIKKEICINKML	47
+               	|||||||||||||     ||||||||||||||||||||||        ||||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      48	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	107
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     108	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	167
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     168	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	227
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     228	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	265
+               	||||||||||||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4fsn_A
+query_name: 4fsn_A_O14757
+optimal_alignment_score: 1833	suboptimal_alignment_score: 195	strand: +	target_begin: 1	target_end: 270	query_begin: 2	query_end: 280
+
+Target:       1	A-PFVEDWDLVQTLGEGA-GEVQLAVNRVTEEAVAVKIVDM-------ENIKKEICINKM	51
+               	| |||||||||||||||| ||||||||||||||||||||||       ||||||||||||
+Query:        2	AVPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKM	61
+
+Target:      52	LNHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYL	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       62	LNHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYL	121
+
+Target:     112	HGIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKR	171
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      122	HGIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKR	181
+
+Target:     172	REFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLAL	231
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      182	REFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLAL	241
+
+Target:     232	LHKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	270
+               	|||||||||||||||||||||||||||||||||||||||
+Query:      242	LHKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4fsz_A
+query_name: 4fsz_A_O14757
+optimal_alignment_score: 1805	suboptimal_alignment_score: 187	strand: +	target_begin: 1	target_end: 268	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTLGEG--GEVQLAVNRVTEEAVAVKIVDMK------ENIKKEI-INKML	51
+               	||||||||||||||||  |||||||||||||||||||||||      ||||||| |||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      52	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     112	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKM-GTLPYVAPELLKRR	170
+               	||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     171	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	230
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     231	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	268
+               	||||||||||||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4ft7_A
+query_name: 4ft7_A_O14757
+optimal_alignment_score: 1840	suboptimal_alignment_score: 204	strand: +	target_begin: 1	target_end: 270	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDM--------NIKKEICINKML	52
+               	||||||||||||||||||||||||||||||||||||||||        ||||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      53	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	112
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     113	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	172
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     173	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	232
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     233	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	270
+               	||||||||||||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4ft0_A
+query_name: 4ft0_A_O14757
+optimal_alignment_score: 1807	suboptimal_alignment_score: 182	strand: +	target_begin: 1	target_end: 266	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVD--------ENIKKEICINKML	52
+               	|||||||||||||||||||||||||||||||||||||||        |||||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      53	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	112
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     113	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	172
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     173	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	232
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     233	HKILVENPSARITIPDIKKDRWYNKPLKK----PRVTS	266
+               	|||||||||||||||||||||||||||||    |||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4ft9_A
+query_name: 4ft9_A_O14757
+optimal_alignment_score: 1835	suboptimal_alignment_score: 197	strand: +	target_begin: 1	target_end: 270	query_begin: 2	query_end: 280
+
+Target:       1	AVPFVEDWDLVQTLGEG--GEVQLAVNRVTEEAVAVKIVDM-------ENIKKEICINKM	51
+               	|||||||||||||||||  ||||||||||||||||||||||       ||||||||||||
+Query:        2	AVPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKM	61
+
+Target:      52	LNHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYL	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       62	LNHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYL	121
+
+Target:     112	HGIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKR	171
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      122	HGIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKR	181
+
+Target:     172	REFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLAL	231
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      182	REFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLAL	241
+
+Target:     232	LHKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	270
+               	|||||||||||||||||||||||||||||||||||||||
+Query:      242	LHKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4fta_A
+query_name: 4fta_A_O14757
+optimal_alignment_score: 1781	suboptimal_alignment_score: 161	strand: +	target_begin: 1	target_end: 264	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTLGE---GEVQLAVNRVTEEAVAVKIV----------NIKKEICINKML	47
+               	|||||||||||||||   ||||||||||||||||||||          ||||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      48	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	107
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     108	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKM-GTLPYVAPELLKRR	166
+               	||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     167	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	226
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     227	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	264
+               	||||||||||||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4ftc_A
+query_name: 4ftc_A_O14757
+optimal_alignment_score: 1796	suboptimal_alignment_score: 170	strand: +	target_begin: 1	target_end: 266	query_begin: 2	query_end: 280
+
+Target:       1	AVPFVEDWDLVQTLG----GEVQLAVNRVTEEAVAVKIVDM--------NIKKEICINKM	48
+               	|||||||||||||||    ||||||||||||||||||||||        |||||||||||
+Query:        2	AVPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKM	61
+
+Target:      49	LNHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYL	108
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       62	LNHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYL	121
+
+Target:     109	HGIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKM-GTLPYVAPELLKR	167
+               	|||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||
+Query:      122	HGIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKR	181
+
+Target:     168	REFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLAL	227
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      182	REFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLAL	241
+
+Target:     228	LHKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	266
+               	|||||||||||||||||||||||||||||||||||||||
+Query:      242	LHKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4fsq_A
+query_name: 4fsq_A_O14757
+optimal_alignment_score: 1782	suboptimal_alignment_score: 154	strand: +	target_begin: 1	target_end: 263	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTLG----GEVQLAVNRVTEEAVAVKIV-----------IKKEICINKML	45
+               	||||||||||||||    ||||||||||||||||||||           |||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      46	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	105
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     106	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	165
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     166	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	225
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     226	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	263
+               	||||||||||||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4fsr_A
+query_name: 4fsr_A_O14757
+optimal_alignment_score: 1830	suboptimal_alignment_score: 192	strand: +	target_begin: 1	target_end: 269	query_begin: 3	query_end: 280
+
+Target:       1	VPFVEDWDLVQTLGEG--GEVQLAVNRVTEEAVAVKIVDMK-------NIKKEICINKML	51
+               	||||||||||||||||  |||||||||||||||||||||||       ||||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      52	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     112	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	171
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     172	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	231
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     232	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	269
+               	||||||||||||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLKKGAKRPRVTS	280
+
+target_name: 4fst_A
+query_name: 4fst_A_O14757
+optimal_alignment_score: 1710	suboptimal_alignment_score: 100	strand: +	target_begin: 1	target_end: 253	query_begin: 3	query_end: 270
+
+Target:       1	VPFVEDWDLVQTLG----GEVQLAVNRVTEEAVAVKIV----------NIKKEICINKML	46
+               	||||||||||||||    ||||||||||||||||||||          ||||||||||||
+Query:        3	VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKML	62
+
+Target:      47	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	106
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       63	NHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLH	122
+
+Target:     107	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKM-GTLPYVAPELLKRR	165
+               	||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Query:      123	GIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRR	182
+
+Target:     166	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	225
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      183	EFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALL	242
+
+Target:     226	HKILVENPSARITIPDIKKDRWYNKPLK	253
+               	||||||||||||||||||||||||||||
+Query:      243	HKILVENPSARITIPDIKKDRWYNKPLK	270
+
+target_name: 4fw3_A
+query_name: 4fw3_A_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw3_B
+query_name: 4fw3_B_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 3	target_end: 301	query_begin: 1	query_end: 299
+
+Target:       3	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	62
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      63	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	122
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     123	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	182
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     183	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	242
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     243	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	301
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw3_C
+query_name: 4fw3_C_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 3	target_end: 301	query_begin: 1	query_end: 299
+
+Target:       3	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	62
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      63	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	122
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     123	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	182
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     183	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	242
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     243	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	301
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw3_D
+query_name: 4fw3_D_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw4_A
+query_name: 4fw4_A_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 2	target_end: 300	query_begin: 1	query_end: 299
+
+Target:       2	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	61
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      62	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	121
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     122	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	181
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     182	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	241
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     242	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	300
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw4_B
+query_name: 4fw4_B_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 2	target_end: 300	query_begin: 1	query_end: 299
+
+Target:       2	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	61
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      62	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	121
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     122	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	181
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     182	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	241
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     242	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	300
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw4_C
+query_name: 4fw4_C_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw4_D
+query_name: 4fw4_D_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw5_A
+query_name: 4fw5_A_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 3	target_end: 301	query_begin: 1	query_end: 299
+
+Target:       3	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	62
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      63	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	122
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     123	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	182
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     183	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	242
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     243	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	301
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw5_B
+query_name: 4fw5_B_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 2	target_end: 300	query_begin: 1	query_end: 299
+
+Target:       2	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	61
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      62	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	121
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     122	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	181
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     182	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	241
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     242	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	300
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw5_C
+query_name: 4fw5_C_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw5_D
+query_name: 4fw5_D_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw6_A
+query_name: 4fw6_A_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 2	target_end: 300	query_begin: 1	query_end: 299
+
+Target:       2	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	61
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      62	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	121
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     122	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	181
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     182	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	241
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     242	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	300
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw6_B
+query_name: 4fw6_B_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 2	target_end: 300	query_begin: 1	query_end: 299
+
+Target:       2	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	61
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      62	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	121
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     122	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	181
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     182	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	241
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     242	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	300
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw6_C
+query_name: 4fw6_C_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw6_D
+query_name: 4fw6_D_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw7_A
+query_name: 4fw7_A_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 3	target_end: 301	query_begin: 1	query_end: 299
+
+Target:       3	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	62
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      63	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	122
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     123	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	182
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     183	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	242
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     243	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	301
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw7_B
+query_name: 4fw7_B_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 3	target_end: 301	query_begin: 1	query_end: 299
+
+Target:       3	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	62
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      63	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	122
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     123	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	182
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     183	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	242
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     243	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	301
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw7_C
+query_name: 4fw7_C_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fw7_D
+query_name: 4fw7_D_P47205
+optimal_alignment_score: 1903	suboptimal_alignment_score: 908	strand: +	target_begin: 4	target_end: 302	query_begin: 1	query_end: 299
+
+Target:       4	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFSRTDLDPVVEIPARAENVGET	63
+               	|||||||||||||||||||||||||||||||||||||||*||||||||||||||||||||
+Query:        1	MIKQRTLKNIIRATGVGLHSGEKVYLTLKPAPVDTGIVFCRTDLDPVVEIPARAENVGET	60
+
+Target:      64	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	123
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	TMSTTLVKGDVKVDTVEHLLSAMAGLGIDNAYVELSASEVPIMDGSAGPFVFLIQSAGLQ	120
+
+Target:     124	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	183
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	EQEAAKKFIRIKREVSVEEGDKRAVFVPFDGFKVSFEIDFDHPVFRGRTQQASVDFSSTS	180
+
+Target:     184	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	243
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	FVKEVSRARTFGFMRDIEYLRSQNLALGGSVENAIVVDENRVLNEDGLRYEDEFVKHKIL	240
+
+Target:     244	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	302
+               	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	DAIGDLYLLGNSLIGEFRGFKSGHALNNQLLRTLIADKDAWEVVTFEDARTAPISYMRP	299
+
+target_name: 4fux_A
+query_name: 4fux_A_P28482
+optimal_alignment_score: 2306	suboptimal_alignment_score: 1067	strand: +	target_begin: 1	target_end: 342	query_begin: 11	query_end: 357
+
+Target:       1	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       11	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	70
+
+Target:      61	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       71	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	130
+
+Target:     121	YQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKICDFGLARVADPDHDHTGFLTEYVAT	179
+               	|||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Query:      131	YQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEYVAT	190
+
+Target:     180	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	239
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      191	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	250
+
+Target:     240	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	299
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      251	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	310
+
+Target:     300	PYLEQYYDPSDEPIAEAPFKF----DDLPKEKLKELIFEETARFQPG	342
+               	|||||||||||||||||||||    ||||||||||||||||||||||
+Query:      311	PYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	357
+
+target_name: 4fuy_A
+query_name: 4fuy_A_P28482
+optimal_alignment_score: 2177	suboptimal_alignment_score: 953	strand: +	target_begin: 1	target_end: 329	query_begin: 11	query_end: 358
+
+Target:       1	PEMV---VFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKIS------YCQRTLR	51
+               	||||   ||||||||||||||||||||||||||||||||||||||||      |||||||
+Query:       11	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	70
+
+Target:      52	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       71	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	130
+
+Target:     112	YQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKI-DFGLARVADPDHDHTGFLTEYVAT	169
+               	|||||||||||||||||||||||||||||| |||| ||||||||||||||||||||||||
+Query:      131	YQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEYVAT	190
+
+Target:     170	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	229
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      191	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	250
+
+Target:     230	DLN-IINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	288
+               	||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      251	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	310
+
+Target:     289	PYLEQYYDPSDEPIAEAPFKF-------PKEKLKELIFEETARFQPGY	329
+               	|||||||||||||||||||||       ||||||||||||||||||||
+Query:      311	PYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPGY	358
+
+target_name: 4fv0_A
+query_name: 4fv0_A_P28482
+optimal_alignment_score: 2282	suboptimal_alignment_score: 1051	strand: +	target_begin: 1	target_end: 341	query_begin: 11	query_end: 358
+
+Target:       1	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       11	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	70
+
+Target:      61	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       71	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	130
+
+Target:     121	YQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKI-DFGLARVADPDHDHTGFLTEYVAT	178
+               	|||||||||||||||||||||||||||||| |||| ||||||||||||||||||||||||
+Query:      131	YQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEYVAT	190
+
+Target:     179	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	238
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      191	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	250
+
+Target:     239	DLN-IINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	297
+               	||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      251	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	310
+
+Target:     298	PYLEQYYDPSDEPIAEAPFKF----DDLPKEKLKELIFEETARFQPGY	341
+               	|||||||||||||||||||||    |||||||||||||||||||||||
+Query:      311	PYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPGY	358
+
+target_name: 4fv1_A
+query_name: 4fv1_A_P28482
+optimal_alignment_score: 2302	suboptimal_alignment_score: 1067	strand: +	target_begin: 1	target_end: 342	query_begin: 11	query_end: 356
+
+Target:       1	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       11	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	70
+
+Target:      61	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       71	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	130
+
+Target:     121	YQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKICDFGLARVADPDHDHTGFLTEYVAT	179
+               	|||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Query:      131	YQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEYVAT	190
+
+Target:     180	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	239
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      191	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	250
+
+Target:     240	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	299
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      251	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	310
+
+Target:     300	PYLEQYYDPSDEPIAEAPFK---ELDDLPKEKLKELIFEETARFQP	342
+               	||||||||||||||||||||   |||||||||||||||||||||||
+Query:      311	PYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQP	356
+
+target_name: 4fv2_A
+query_name: 4fv2_A_P28482
+optimal_alignment_score: 2319	suboptimal_alignment_score: 1077	strand: +	target_begin: 1	target_end: 344	query_begin: 11	query_end: 357
+
+Target:       1	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       11	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	70
+
+Target:      61	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       71	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	130
+
+Target:     121	YQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKICDFGLARVADPDHDHTGFLTEYVAT	179
+               	|||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Query:      131	YQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEYVAT	190
+
+Target:     180	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	239
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      191	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	250
+
+Target:     240	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	299
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      251	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	310
+
+Target:     300	PYLEQYYDPSDEPIAEAPFKF--ELDDLPKEKLKELIFEETARFQPG	344
+               	|||||||||||||||||||||  ||||||||||||||||||||||||
+Query:      311	PYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	357
+
+target_name: 4fv3_A
+query_name: 4fv3_A_P28482
+optimal_alignment_score: 2338	suboptimal_alignment_score: 1095	strand: +	target_begin: 1	target_end: 346	query_begin: 11	query_end: 357
+
+Target:       1	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       11	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	70
+
+Target:      61	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       71	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	130
+
+Target:     121	YQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKICDFGLARVADPDHDHTGFLTEYVAT	179
+               	|||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Query:      131	YQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEYVAT	190
+
+Target:     180	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	239
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      191	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	250
+
+Target:     240	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	299
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      251	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	310
+
+Target:     300	PYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	346
+               	|||||||||||||||||||||||||||||||||||||||||||||||
+Query:      311	PYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	357
+
+target_name: 4ev4_A
+query_name: 4ev4_A_Q6JP75
+optimal_alignment_score: 1739	suboptimal_alignment_score: 727	strand: +	target_begin: 1	target_end: 268	query_begin: 27	query_end: 296
+
+Target:       1	ASQPPQVTVDKLKRLENDFGGRIGVYAIDTGSNKTFGYRANERFPLCSSFKGFLAAAVLS	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       27	ASQPPQVTVDKLKRLENDFGGRIGVYAIDTGSNKTFGYRANERFPLCSSFKGFLAAAVLS	86
+
+Target:      61	KSQQQEGLLNQRIRYDN-VMEPHSPVTEKQITTGMTVAELSAATLQYSDNGAANLLLE-L	118
+               	||||||||||||||||| |||||||||||||||||||||||||||||||||||||||| |
+Query:       87	KSQQQEGLLNQRIRYDNRVMEPHSPVTEKQITTGMTVAELSAATLQYSDNGAANLLLEKL	146
+
+Target:     119	IGGPEGMTSFMRSIGDNVFRLDRWALELNSAIPGDDRDTSTPKAVAESMQKLAFGNVLGL	178
+               	||||||||||||||||||||||||*|||||||||||||||||||||||||||||||||||
+Query:      147	IGGPEGMTSFMRSIGDNVFRLDRWELELNSAIPGDDRDTSTPKAVAESMQKLAFGNVLGL	206
+
+Target:     179	TERHQLMDWFKGNTTGGARIRASVPANWVVGDKTGTCGVYGTANDYAVIWPVAHAPIVLA	238
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||*|||||||
+Query:      207	TERHQLMDWFKGNTTGGARIRASVPANWVVGDKTGTCGVYGTANDYAVIWPVGHAPIVLA	266
+
+Target:     239	VYTSKPDRNSKHSDAVIADASRIVLESFNI	268
+               	|||||||*||||||||||||||||||||||
+Query:      267	VYTSKPDKNSKHSDAVIADASRIVLESFNI	296
+
+target_name: 4fv5_A
+query_name: 4fv5_A_P28482
+optimal_alignment_score: 2198	suboptimal_alignment_score: 988	strand: +	target_begin: 1	target_end: 330	query_begin: 9	query_end: 357
+
+Target:       1	AGPEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRT	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:        9	AGPEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRT	68
+
+Target:      61	LREIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICY	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       69	LREIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICY	128
+
+Target:     121	FLYQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKICDFGLARVA--------------	165
+               	|||||||||||||||||||||||||||||||| |||||||||||||              
+Query:      129	FLYQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEYV	188
+
+Target:     166	ATRWYRAPEIMLN----TKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPS	221
+               	|||||||||||||    |||||||||||||||||||||||||||||||||||||||||||
+Query:      189	ATRWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPS	248
+
+Target:     222	QEDLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQAL	281
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      249	QEDLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQAL	308
+
+Target:     282	AHPYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	330
+               	|||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      309	AHPYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	357
+
+target_name: 4fv7_A
+query_name: 4fv7_A_P28482
+optimal_alignment_score: 2298	suboptimal_alignment_score: 1067	strand: +	target_begin: 1	target_end: 342	query_begin: 11	query_end: 358
+
+Target:       1	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       11	PEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQRTLR	70
+
+Target:      61	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       71	EIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHICYFL	130
+
+Target:     121	YQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKICDFGLARVADPDHDHTGFLTEYVAT	179
+               	|||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Query:      131	YQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEYVAT	190
+
+Target:     180	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	239
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      191	RWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQE	250
+
+Target:     240	DLN-IINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	298
+               	||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      251	DLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQALAH	310
+
+Target:     299	PYLEQYYDPSDEPIAEAPFKF----DDLPKEKLKELIFEETARFQPGY	342
+               	|||||||||||||||||||||    |||||||||||||||||||||||
+Query:      311	PYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPGY	358
+
+target_name: 4fv8_A
+query_name: 4fv8_A_P28482
+optimal_alignment_score: 2221	suboptimal_alignment_score: 1008	strand: +	target_begin: 1	target_end: 333	query_begin: 8	query_end: 357
+
+Target:       1	GAGPEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQR	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:        8	GAGPEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQR	67
+
+Target:      61	TLREIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHIC	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       68	TLREIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHIC	127
+
+Target:     121	YFLYQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKICDFGLARVA-------------	166
+               	||||||||||||||||||||||||||||||||| |||||||||||||             
+Query:      128	YFLYQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEY	187
+
+Target:     167	VATRWYRAPEIMLN---YTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSP	223
+               	||||||||||||||   |||||||||||||||||||||||||||||||||||||||||||
+Query:      188	VATRWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSP	247
+
+Target:     224	SQEDLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQA	283
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      248	SQEDLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQA	307
+
+Target:     284	LAHPYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	333
+               	||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      308	LAHPYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	357
+
+target_name: 4fv9_A
+query_name: 4fv9_A_P28482
+optimal_alignment_score: 2207	suboptimal_alignment_score: 996	strand: +	target_begin: 1	target_end: 331	query_begin: 8	query_end: 357
+
+Target:       1	GAGPEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQR	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:        8	GAGPEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYDNVNKVRVAIKKISPFEHQTYCQR	67
+
+Target:      61	TLREIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHIC	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       68	TLREIKILLRFRHENIIGINDIIRAPTIEQMKDVYIVQDLMETDLYKLLKTQHLSNDHIC	127
+
+Target:     121	YFLYQILRGLKYIHSANVLHRDLKPSNLLLNTT-DLKICDFGLARVA-------------	166
+               	||||||||||||||||||||||||||||||||| |||||||||||||             
+Query:      128	YFLYQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLARVADPDHDHTGFLTEY	187
+
+Target:     167	-ATRWYRAPEIML----YTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSP	221
+               	 ||||||||||||    |||||||||||||||||||||||||||||||||||||||||||
+Query:      188	VATRWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSP	247
+
+Target:     222	SQEDLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQA	281
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      248	SQEDLNCIINLKARNYLLSLPHKNKVPWNRLFPNADSKALDLLDKMLTFNPHKRIEVEQA	307
+
+Target:     282	LAHPYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	331
+               	||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      308	LAHPYLEQYYDPSDEPIAEAPFKFDMELDDLPKEKLKELIFEETARFQPG	357
+
+target_name: 4fx3_A
+query_name: 4fx3_A_P24941
+optimal_alignment_score: 1987	suboptimal_alignment_score: 944	strand: +	target_begin: 1	target_end: 298	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fx3_B
+query_name: 4fx3_B_P20248
+optimal_alignment_score: 1685	suboptimal_alignment_score: 276	strand: +	target_begin: 1	target_end: 257	query_begin: 176	query_end: 432
+
+Target:       1	PDYHEDIHTYLREMEVKCKPKVGYMKKQPDITNSMRAILVDWLVEVGEEYKLQNETLHLA	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      176	PDYHEDIHTYLREMEVKCKPKVGYMKKQPDITNSMRAILVDWLVEVGEEYKLQNETLHLA	235
+
+Target:      61	VNYIDRFLSSMSVLRGKLQLVGTAAMLLASKFEEIYPPEVAEFVYITDDTYTKKQVLRME	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      236	VNYIDRFLSSMSVLRGKLQLVGTAAMLLASKFEEIYPPEVAEFVYITDDTYTKKQVLRME	295
+
+Target:     121	HLVLKVLTFDLAAPTVNQFLTQYFLHQQPANCKVESLAMFLGELSLIDADPYLKYLPSVI	180
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      296	HLVLKVLTFDLAAPTVNQFLTQYFLHQQPANCKVESLAMFLGELSLIDADPYLKYLPSVI	355
+
+Target:     181	AGAAFHLALYTVTGQSWPESLIRKTGYTLESLKPCLMDLHQTYLKAPQHAQQSIREKYKN	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      356	AGAAFHLALYTVTGQSWPESLIRKTGYTLESLKPCLMDLHQTYLKAPQHAQQSIREKYKN	415
+
+Target:     241	SKYHGVSLLNPPETLNL	257
+               	|||||||||||||||||
+Query:      416	SKYHGVSLLNPPETLNL	432
+
+target_name: 4fx3_C
+query_name: 4fx3_C_P24941
+optimal_alignment_score: 1987	suboptimal_alignment_score: 944	strand: +	target_begin: 1	target_end: 298	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fx3_D
+query_name: 4fx3_D_P20248
+optimal_alignment_score: 1690	suboptimal_alignment_score: 281	strand: +	target_begin: 1	target_end: 258	query_begin: 175	query_end: 432
+
+Target:       1	VPDYHEDIHTYLREMEVKCKPKVGYMKKQPDITNSMRAILVDWLVEVGEEYKLQNETLHL	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      175	VPDYHEDIHTYLREMEVKCKPKVGYMKKQPDITNSMRAILVDWLVEVGEEYKLQNETLHL	234
+
+Target:      61	AVNYIDRFLSSMSVLRGKLQLVGTAAMLLASKFEEIYPPEVAEFVYITDDTYTKKQVLRM	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      235	AVNYIDRFLSSMSVLRGKLQLVGTAAMLLASKFEEIYPPEVAEFVYITDDTYTKKQVLRM	294
+
+Target:     121	EHLVLKVLTFDLAAPTVNQFLTQYFLHQQPANCKVESLAMFLGELSLIDADPYLKYLPSV	180
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      295	EHLVLKVLTFDLAAPTVNQFLTQYFLHQQPANCKVESLAMFLGELSLIDADPYLKYLPSV	354
+
+Target:     181	IAGAAFHLALYTVTGQSWPESLIRKTGYTLESLKPCLMDLHQTYLKAPQHAQQSIREKYK	240
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      355	IAGAAFHLALYTVTGQSWPESLIRKTGYTLESLKPCLMDLHQTYLKAPQHAQQSIREKYK	414
+
+Target:     241	NSKYHGVSLLNPPETLNL	258
+               	||||||||||||||||||
+Query:      415	NSKYHGVSLLNPPETLNL	432
+
+target_name: 4ek4_A
+query_name: 4ek4_A_P24941
+optimal_alignment_score: 1909	suboptimal_alignment_score: 865	strand: +	target_begin: 1	target_end: 287	query_begin: 1	query_end: 296
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKI---------PSTAIREISLLKELNH	51
+               	|||||||||||||||||||||||||||||||||||         ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      52	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     112	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	171
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     172	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	231
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     232	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHL	287
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHL	296
+
+target_name: 4ek5_A
+query_name: 4ek5_A_P24941
+optimal_alignment_score: 1921	suboptimal_alignment_score: 878	strand: +	target_begin: 1	target_end: 289	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKI---------PSTAIREISLLKELNH	51
+               	|||||||||||||||||||||||||||||||||||         ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      52	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     112	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	171
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     172	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	231
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     232	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	289
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fkg_A
+query_name: 4fkg_A_P24941
+optimal_alignment_score: 1896	suboptimal_alignment_score: 857	strand: +	target_begin: 1	target_end: 286	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKI---------PSTAIREISLLKELNH	51
+               	|||||||||||||||||||||||||||||||||||         ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      52	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     112	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFG---RTYTHEVVTLWYRAPEILLGCKYY	168
+               	|||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     169	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	228
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     229	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	286
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fki_A
+query_name: 4fki_A_P24941
+optimal_alignment_score: 1904	suboptimal_alignment_score: 865	strand: +	target_begin: 1	target_end: 287	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIR--------PSTAIREISLLKELNH	52
+               	||||||||||||||||||||||||||||||||||||        ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      53	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	112
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     113	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFG---RTYTHEVVTLWYRAPEILLGCKYY	169
+               	|||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     170	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	229
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     230	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	287
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4ek6_A
+query_name: 4ek6_A_P24941
+optimal_alignment_score: 1827	suboptimal_alignment_score: 804	strand: +	target_begin: 1	target_end: 278	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKI----------STAIREISLLKELNH	50
+               	|||||||||||||||||||||||||||||||||||          |||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      51	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	110
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     111	HRVLHRDLKPQNLLINTEGAIKLADFGLARA----------EVVTLWYRAPEILLGCKYY	160
+               	|||||||||||||||||||||||||||||||          |||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     161	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	220
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     221	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	278
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fjk_A
+query_name: 4fjk_A_Q38087
+optimal_alignment_score: 5984	suboptimal_alignment_score: 2969	strand: +	target_begin: 1	target_end: 901	query_begin: 1	query_end: 901
+
+Target:       1	MKEFYLTVEQIGDSIFERYIDSNGRERTREVEYKPSLFAHCPESQATKYFDIYGKPCTRK	60
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:        1	MKEFYLTVEQIGDSIFERYIDSNGRERTREVEYKPSLFAHCPESQATKYFDIYGKPCTRK	60
+
+Target:      61	LFANMRDASQWIKRMEDIGLEALGMDDFKLAYLSDTYNYEIKYDHTKIRVANFDIEVTSP	120
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	LFANMRDASQWIKRMEDIGLEALGMDDFKLAYLSDTYNYEIKYDHTKIRVANFDIEVTSP	120
+
+Target:     121	DGFPEPSQAKHPIDAITHYDSIDDRFYVFDLLNSPYGNVEEWSIEIAAKLQEQGGDEVPS	180
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	DGFPEPSQAKHPIDAITHYDSIDDRFYVFDLLNSPYGNVEEWSIEIAAKLQEQGGDEVPS	180
+
+Target:     181	EIIDKIIYMPFDNEKELLMEYLNFWQQKTPVILTGWNVESFAIPYVYNRIKNIFGESTAK	240
+               	|||||||||||||||||||||||||||||||||||||||||*||||||||||||||||||
+Query:      181	EIIDKIIYMPFDNEKELLMEYLNFWQQKTPVILTGWNVESFDIPYVYNRIKNIFGESTAK	240
+
+Target:     241	RLSPHRKTRVKVIENMYGSREIITLFGISVLDYIDLYKKFSFTNQPSYSLDYISEFELNV	300
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	RLSPHRKTRVKVIENMYGSREIITLFGISVLDYIDLYKKFSFTNQPSYSLDYISEFELNV	300
+
+Target:     301	GKLKYDGPISKLRESNHQRYISYNIIAVYRVLQIDAKRQFINLSLDMGYYAKIQIQSVFS	360
+               	||||||||||||||||||||||||||*|||||||||||||||||||||||||||||||||
+Query:      301	GKLKYDGPISKLRESNHQRYISYNIIDVYRVLQIDAKRQFINLSLDMGYYAKIQIQSVFS	360
+
+Target:     361	PIKTWDAIIFNSLKEQNKVIPQGRSHPVQPYPGAFVKEPIPNRYKYVMSFDLTSAYPSII	420
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||*|||||
+Query:      361	PIKTWDAIIFNSLKEQNKVIPQGRSHPVQPYPGAFVKEPIPNRYKYVMSFDLTSLYPSII	420
+
+Target:     421	RQVNISPETIAGTFKVAPLHDYINAVAERPSDVYSCSPNGMMYYKDRDGVVPTEITKVFN	480
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      421	RQVNISPETIAGTFKVAPLHDYINAVAERPSDVYSCSPNGMMYYKDRDGVVPTEITKVFN	480
+
+Target:     481	QRKEHKGYMLAAQRNGEIIKEALHNPNLSVDEPLDVDYRFDFSDEIKEKIKKLSAKSLNE	540
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      481	QRKEHKGYMLAAQRNGEIIKEALHNPNLSVDEPLDVDYRFDFSDEIKEKIKKLSAKSLNE	540
+
+Target:     541	MLFRAQRTEVAGMTAQINRKALINGLAGALGNVWFRYYDLRNATAITTFGQMALQWIERK	600
+               	||||||||||||||||||||*|||*|*|||||||||||||||||||||||||||||||||
+Query:      541	MLFRAQRTEVAGMTAQINRKLLINSLYGALGNVWFRYYDLRNATAITTFGQMALQWIERK	600
+
+Target:     601	VNEYLNEVCGTEGEAFVLYGDTDSIYVSADKIIDKVGESKFRDTNHWVDFLDKFARERME	660
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      601	VNEYLNEVCGTEGEAFVLYGDTDSIYVSADKIIDKVGESKFRDTNHWVDFLDKFARERME	660
+
+Target:     661	PAIDRGFREMCEYMNNKQHLMFMDREAIAGPPLGSKGIGGFWTGKKRYALNVWDMEGTRY	720
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      661	PAIDRGFREMCEYMNNKQHLMFMDREAIAGPPLGSKGIGGFWTGKKRYALNVWDMEGTRY	720
+
+Target:     721	AEPKLKIMGLETQKSSTPKAVQKALKECIRRMLQEGEESLQEYFKEFEKEFRQLNYISIA	780
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      721	AEPKLKIMGLETQKSSTPKAVQKALKECIRRMLQEGEESLQEYFKEFEKEFRQLNYISIA	780
+
+Target:     781	SVSSANNIAKYDVGGFPGPKCPFHIRGILTYNRAIKGNIDAPQVVEGEKVYVLPLREGNP	840
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      781	SVSSANNIAKYDVGGFPGPKCPFHIRGILTYNRAIKGNIDAPQVVEGEKVYVLPLREGNP	840
+
+Target:     841	FGDKCIAWPSGTEITDLIKDDVLHWMDYTVLLEKTFIKPLEGFTSAAKLDYEKKASLFDM	900
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      841	FGDKCIAWPSGTEITDLIKDDVLHWMDYTVLLEKTFIKPLEGFTSAAKLDYEKKASLFDM	900
+
+Target:     901	F	901
+               	|
+Query:      901	F	901
+
+target_name: 4ek8_A
+query_name: 4ek8_A_P24941
+optimal_alignment_score: 1855	suboptimal_alignment_score: 831	strand: +	target_begin: 1	target_end: 281	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIR--------PSTAIREISLLKELNH	52
+               	||||||||||||||||||||||||||||||||||||        ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      53	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	112
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     113	HRVLHRDLKPQNLLINTEGAIKLADFGLARAF---------EVVTLWYRAPEILLGCKYY	163
+               	||||||||||||||||||||||||||||||||         |||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     164	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	223
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     224	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	281
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 3sw4_A
+query_name: 3sw4_A_P24941
+optimal_alignment_score: 1851	suboptimal_alignment_score: 823	strand: +	target_begin: 1	target_end: 280	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIR--------PSTAIREISLLKELNH	52
+               	||||||||||||||||||||||||||||||||||||        ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      53	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	112
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     113	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFG----------VTLWYRAPEILLGCKYY	162
+               	|||||||||||||||||||||||||||||||||          |||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     163	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	222
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     223	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	280
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 3sw7_A
+query_name: 3sw7_A_P24941
+optimal_alignment_score: 1831	suboptimal_alignment_score: 811	strand: +	target_begin: 1	target_end: 278	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRL-------PSTAIREISLLKELNH	53
+               	|||||||||||||||||||||||||||||||||||||       ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      54	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	113
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     114	HRVLHRDLKPQNLLINTEGAIKLADFGLA-------------VVTLWYRAPEILLGCKYY	160
+               	|||||||||||||||||||||||||||||             ||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     161	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	220
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     221	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	278
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fko_A
+query_name: 4fko_A_P24941
+optimal_alignment_score: 1935	suboptimal_alignment_score: 892	strand: +	target_begin: 1	target_end: 291	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRL-------PSTAIREISLLKELNH	53
+               	|||||||||||||||||||||||||||||||||||||       ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      54	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	113
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     114	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	173
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     174	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	233
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     234	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	291
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fkp_A
+query_name: 4fkp_A_P24941
+optimal_alignment_score: 1846	suboptimal_alignment_score: 821	strand: +	target_begin: 1	target_end: 280	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKI--------VPSTAIREISLLKELNH	52
+               	|||||||||||||||||||||||||||||||||||        |||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      53	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	112
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     113	HRVLHRDLKPQNLLINTEGAIKLADFGLARAF----------VVTLWYRAPEILLGCKYY	162
+               	||||||||||||||||||||||||||||||||          ||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     163	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	222
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     223	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	280
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fkq_A
+query_name: 4fkq_A_P24941
+optimal_alignment_score: 1869	suboptimal_alignment_score: 843	strand: +	target_begin: 1	target_end: 283	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRL------VPSTAIREISLLKELNH	54
+               	|||||||||||||||||||||||||||||||||||||      |||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      55	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	114
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     115	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFG---------VVTLWYRAPEILLGCKYY	165
+               	|||||||||||||||||||||||||||||||||         ||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     166	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	225
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     226	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	283
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fkr_A
+query_name: 4fkr_A_P24941
+optimal_alignment_score: 1863	suboptimal_alignment_score: 837	strand: +	target_begin: 1	target_end: 282	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRL-------PSTAIREISLLKELNH	53
+               	|||||||||||||||||||||||||||||||||||||       ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      54	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	113
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     114	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFG---------VVTLWYRAPEILLGCKYY	164
+               	|||||||||||||||||||||||||||||||||         ||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     165	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	224
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     225	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	282
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fks_A
+query_name: 4fks_A_P24941
+optimal_alignment_score: 1813	suboptimal_alignment_score: 792	strand: +	target_begin: 1	target_end: 275	query_begin: 1	query_end: 296
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKI---------PSTAIREISLLKELNH	51
+               	|||||||||||||||||||||||||||||||||||         ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      52	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     112	HRVLHRDLKPQNLLINTEGAIKLADFGLAR------------VVTLWYRAPEILLGCKYY	159
+               	||||||||||||||||||||||||||||||            ||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     160	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	219
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     220	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHL	275
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHL	296
+
+target_name: 4fkt_A
+query_name: 4fkt_A_P24941
+optimal_alignment_score: 1835	suboptimal_alignment_score: 809	strand: +	target_begin: 1	target_end: 278	query_begin: 1	query_end: 296
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKI---------PSTAIREISLLKELNH	51
+               	|||||||||||||||||||||||||||||||||||         ||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      52	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	111
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     112	HRVLHRDLKPQNLLINTEGAIKLADFGLARAF---------EVVTLWYRAPEILLGCKYY	162
+               	||||||||||||||||||||||||||||||||         |||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     163	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	222
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     223	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHL	278
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHL	296
+
+target_name: 4fku_A
+query_name: 4fku_A_P24941
+optimal_alignment_score: 1950	suboptimal_alignment_score: 907	strand: +	target_begin: 1	target_end: 293	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRL-----GVPSTAIREISLLKELNH	55
+               	|||||||||||||||||||||||||||||||||||||     ||||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      56	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	115
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     116	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	175
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     176	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	235
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     236	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	293
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fkv_A
+query_name: 4fkv_A_P24941
+optimal_alignment_score: 1861	suboptimal_alignment_score: 838	strand: +	target_begin: 1	target_end: 282	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRL-----GVPSTAIREISLLKELNH	55
+               	|||||||||||||||||||||||||||||||||||||     ||||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      56	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	115
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     116	HRVLHRDLKPQNLLINTEGAIKLADFGLAR-----------EVVTLWYRAPEILLGCKYY	164
+               	||||||||||||||||||||||||||||||           |||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     165	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	224
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     225	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	282
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+
+target_name: 4fkw_A
+query_name: 4fkw_A_P24941
+optimal_alignment_score: 1846	suboptimal_alignment_score: 826	strand: +	target_begin: 1	target_end: 280	query_begin: 1	query_end: 298
+
+Target:       1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRL-----GVPSTAIREISLLKELNH	55
+               	|||||||||||||||||||||||||||||||||||||     ||||||||||||||||||
+Query:        1	MENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNH	60
+
+Target:      56	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	115
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:       61	PNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHS	120
+
+Target:     116	HRVLHRDLKPQNLLINTEGAIKLADFGLA-------------VVTLWYRAPEILLGCKYY	162
+               	|||||||||||||||||||||||||||||             ||||||||||||||||||
+Query:      121	HRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYY	180
+
+Target:     163	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	222
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      181	STAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSF	240
+
+Target:     223	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	280
+               	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query:      241	PKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL	298
+

@@ -1,0 +1,56 @@
+Compound ID,Targets,PDB ID,Ligand code,SMILES,Measurement,Potency,Unit,Convert Potency
+uPa_15,Urokinase,4FUD,6UP,NC(=N)c1ccc2cccc(N)c2c1,Ki,450,nM,6.35
+uPa_18,Urokinase,4FUE,7UP,NC(=N)c1ccc2cc(ccc2c1)C#Cc3ccc4CNCCc4c3,Ki,58.8,nM,7.23
+uPa_4,Urokinase,4FU7,1UP,COc1ccc2ccc(cc2c1OCC(=O)N)C(=N)N,Ki,637,nM,6.20
+uPa_6,Urokinase,4FU8,2UP,NC(=N)c1ccc2ccccc2c1,Ki,5910,nM,5.23
+uPa_7,Urokinase,4FU9,675,NC(=N)c1ccc2cc(ccc2c1)C(=O)Nc3ccccc3,Ki,628,nM,6.20
+uPa_8,Urokinase,4FUB,4UP,NC(=N)c1ccc2cc(ccc2c1)C3OC3c4ccccc4,Ki,610,nM,6.21
+uPa_9,Urokinase,4FUC,239,NCc1ccc(NC(=O)c2ccc3cc(ccc3c2)C(=N)N)cc1,Ki,40,nM,7.40
+Chk1_4,CHK1 Kinase,4FSM,HK1,COc1c(OC)cc2c(Cc3c2n[nH]c3c4ccc(O)cc4)c1,IC50,23.9,nM,7.62
+Chk1_8,CHK1 Kinase,4FSW,HK6,Clc1ccc2Nc3ccccc3C(=O)Nc2c1,IC50,17200,nM,4.76
+Chk1_19,CHK1 Kinase,4FT5,H2K,Clc1ccc(OC2CCNC2)c(NC(=O)Nc3cnc(cn3)C#N)c1,IC50,27.4,nM,7.56
+Chk1_20,CHK1 Kinase,4FSN,A58,CC1CCC(NCc2cc(Cc3c4n[nH]c3c5ccc(C(O)=O)cc5)c4cc2)CC1,IC50,19.9,nM,7.70
+Chk1_33,CHK1 Kinase,4FSZ,HK8,OC(=O)Cc1ccc2Nc3cc(Cl)ccc3C(=O)Nc2c1,IC50,106,nM,6.97
+Chk1_40,CHK1 Kinase,4FT7,H3K,OC1CCCN(C1)c2ccc(Br)cc2NC(=O)Nc3cnc(cn3)C#N,IC50,1.36,nM,8.87
+Chk1_70,CHK1 Kinase,4FT0,HK9,COc1cc(ccc1C(=O)O)c2ccc3C(=O)Nc4ccccc4Nc3c2,IC50,76.8,nM,7.11
+Chk1_72,CHK1 Kinase,4FT9,H4K,O=C(Nc1cnc(cn1)C#N)Nc2cc3ccccc3cn2,IC50,20.6,nM,7.69
+Chk1_89,CHK1 Kinase,4FTA,H5K,OC(=O)c1ccc2cc(NC(=O)Nc3cnc(cn3)C#N)ccc2c1,IC50,40.4,nM,7.39
+Chk1_90,CHK1 Kinase,4FTC,H6K,O=C(Nc1cnc(cn1)C#N)Nc2cc([nH]n2)c3ccccc3,IC50,23.2,nM,7.63
+Chk1_115,CHK1 Kinase,4FSQ,HK3,COc1c(OC)cc2c(Cc3c2n[nH]c3c4ccc(c5ccc(O)cc5)cc4)c1,IC50,1.6,nM,8.80
+Chk1_123,CHK1 Kinase,4FSR,HKC,COc1c(OC)cc2c(Cc3c2n[nH]c3c4ccc(c5n[nH]nn5)cc4)c1,IC50,11.5,nM,7.94
+Chk1_146,CHK1 Kinase,4FST,HK4,COc1c(O)ccc(C#Cc2c(Cc3c4cc(OC)c(OC)c3)c4n[nH]2)c1,IC50,5.22,nM,8.28
+CS252,LpxC,4FW3,L52,N(C(=O)c1ccc(cc1)C#CC#Cc1ccccc1)[C@H](C(=O)NO)CN,Kd,58.6,nM,7.23
+CS257,LpxC,4FW4,3P3,N(C(=O)c1ccc(cc1)C#CC#Cc1ccccc1)[C@H](C(=O)NO)[C@@H](C)O,Kd,8.35,nM,8.08
+CS258,LpxC,4FW5,L58,N(C(=O)c1ccc(cc1)c1ccc(cc1)Br)[C@H](C(=O)NO)[C@@H](C)O,Kd,33.2,nM,7.48
+CS259,LpxC,4FW6,L59,N(C(=O)c1ccc(cc1)C#Cc1ccccc1)[C@H](C(=O)NO)[C@@H](C)O,Kd,20.1,nM,7.70
+CS263,LpxC,4FW7,L63,N(C(=O)c1ccc(cc1)c1ccccc1)[C@H](C(=O)NO)[C@@H](C)O,Kd,74.5,nM,7.13
+erk000075,ERK2,4FUX,E75,o1nc(c(-c2nc(ncc2)NC2CCC(O)CC2)c1C)-c1ccccc1,Ki,1000,nM,6.00
+erk000124,ERK2,4FUY,EK2,Clc1cc(cc(Cl)c1)-c1cn[nH]c1-c1cc([nH]c1)C(=O)N1CCOCC1,Ki,812.8,nM,6.09
+erk000125,ERK2,4FV0,EK3,Fc1ccc(cc1)-c1n[nH]cc1-c1cc(ncc1)NC1CCCCC1,Ki,2570.4,nM,5.59
+erk000184,ERK2,4FV1,EK4,FC(F)(F)c1cc(ccc1)-c1cn[nH]c1-c1cc([nH]c1)C(=O)N[C@H](CO)c1ccccc1,Ki,83.2,nM,7.08
+erk000232,ERK2,4FV2,EK5,Clc1cc(ccc1)-c1cn[nH]c1-c1cc([nH]c1)C(=O)NCc1cc2CCOc2cc1,Ki,20.9,nM,7.68
+erk000391,ERK2,4FV3,EK6,Clc1cc(ccc1C[NH2+]CC(OCC)=O)-c1cn[nH]c1-c1cc([nH]c1)C(=O)N[C@H](CO)c1cc(Cl)c(F)cc1,Ki,18.2,nM,7.74
+erk000499,ERK2,4EV4,MER,s1c(c2c(-c3nc(ncc3CC2)Nc2cc(O)ccc2)c1N(C)C)C#N,Ki,39.8,nM,7.40
+erk000501,ERK2,4FV5,EK9,OC[C@@H](NC(=O)c1[nH]cc(c1)-c1nc(ncc1C)-c1ccccc1)c1ccccc1,Ki,20,nM,7.70
+erk000594,ERK2,4FV7,E94,Clc1cc(ccc1)-c1c(sc(NCC[NH+]2CCCCC2)c1C#N)-c1nc(ncc1)Nc1cc(O)ccc1,Ki,26.9,nM,7.57
+erk000633,ERK2,4FV8,E63,O=C1NNc2cc(Nc3ncc(Nc4ccccc4)c(Nc5cc(C6CC6)[nH]n5)n3)ccc21,Ki,15.1,nM,7.82
+erk000712,ERK2,4FV9,E71,Fc1c(cccc1F)-c1cnoc1-c1c2cc(cnc2[nH]c1)-c1ccncc1,Ki,190.5,nM,6.72
+CS260,CDK2-CyclinA,4FX3,60K,O=C(/C1=N\NC2=CC=C(S(=O)(N)=O)C=C2)NC3=C1C=C(C(O)=O)C=C3,Kd,8.43,nM,8.07
+CS1,CDK2 Kinase,4EK4,1CK,Brc1ccc(cc1)C(=O)Nc1n[nH]c(c1)C,Kd,33200,nM,4.48
+CS3,CDK2 Kinase,4EK5,03K,O=C(Nc1n[nH]c(c1)C1CC1)c1ccc(cc1)C(=O)N,Kd,808,nM,6.09
+CS4,CDK2 Kinase,4FKG,4CK,O=C(Nc1n[nH]c(c1)C1CC1)c1ccc(cc1)C(=O)[O-],Kd,21200,nM,4.67
+CS9,CDK2 Kinase,4FKI,09K,FC(F)(F)Oc1ccc(cc1)CC(=O)Nc1n[nH]c(c1)C1CC1,Kd,58300,nM,4.23
+CS10,CDK2 Kinase,4EK6,10K,s1cccc1-c1ccc(cc1)CC(=O)Nc1n[nH]c(c1)C1CC1,Kd,910,nM,6.04
+CS11,CDK2 Kinase,4FJK,DTP,O(CC[NH+]1CCCC1)c1ccc(cc1)CC(=O)Nc1[nH]nc(c1)C1CC1,Kd,280,nM,6.55
+CS16,CDK2 Kinase,4EK8,16K,s1c(-c2nc(ncc2)Nc2cc([N+](=O)[O-])ccc2)c(nc1C)C,Kd,77.3,nM,7.11
+CS18,CDK2 Kinase,3SW4,18K,s1c(-c2nc(ncc2)Nc2ccc(N(C)C)cc2)c(nc1N)C,Kd,961,nM,6.02
+CS19,CDK2 Kinase,3SW7,19K,s1c(-c2nc(ncc2)Nc2cc([N+](=O)[O-])c(N(C)C)cc2)c(nc1C)C,Kd,229,nM,6.64
+CS20,CDK2 Kinase,4FKO,20K,Clc1cc(Nc2nc(ccn2)-c2sc(nc2C)C)ccc1N(C)C,Kd,777,nM,6.11
+CS241,CDK2 Kinase,4FKP,LS5,S(=O)(=O)(NC(N)=N)c1ccc(N\C=C/2\c3c(NC\2=O)cccc3)cc1,Kd,287,nM,6.54
+CS242,CDK2 Kinase,4FKQ,42K,S(=O)(=O)(N)c1ccc(N\N=C/2\c3c(NC\2=O)ccc2[nH]nnc23)cc1,Kd,528,nM,6.28
+CS245,CDK2 Kinase,4FKR,45K,s1c2c\3c(NC(=O)/C/3=C\Nc3cc4c(CS(=O)(=O)C4)cc3)ccc2nc1,Kd,229,nM,6.64
+CS246,CDK2 Kinase,4FKS,46K,s1c2c\3c(NC(=O)/C/3=C\Nc3ccc(S(=O)([O-])=NC(=O)C)cc3)ccc2nc1,Kd,526,nM,6.28
+CS248,CDK2 Kinase,4FKT,48K,S(=O)(=O)(NCC[NH+](C)C)c1ccc(N\C=C/2\c3c(NC\2=O)cccc3)cc1,Kd,1060,nM,5.97
+CS260,CDK2 Kinase,4FKU,60K,O=C(/C1=N\NC2=CC=C(S(=O)(N)=O)C=C2)NC3=C1C=C(C(O)=O)C=C3,Kd,98.6,nM,7.01
+CS261,CDK2 Kinase,4FKV,61K,O=C(/C1=N\NC2=CC=C(S(=O)(N)=O)C=C2)NC3=C1C=C(C(NCCC4=CNC=N4)=O)C=C3,Kd,251,nM,6.60
+CS262,CDK2 Kinase,4FKW,62K,O=C(/C1=N\NC2=CC=C(S(=O)(N)=O)C=C2)NC3=C1C=C(C(OCC(C)C)=O)C=C3,Kd,47.3,nM,7.33
