@@ -21,7 +21,7 @@ We also provide results from curated external test datasets based on protein or 
 - low compound similarity, low protein similarity
 
 In addition to results for the compound-protein complex structure dataset (PDBbind), we also provide results for the BindingDB dataset (IC50 and Ki-labeled datasets).
-The BindingDB dataset was divided into four cases, and experiments were perfomred using 3-fold cross-validation for each case. The experimental results are provided in the '/results/BindingDB/' directory.
+The BindingDB dataset was divided into four cases, and experiments were perfomred using 3-fold cross-validation for each case. The experimental results are provided in the [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0)
 - Random split: No overlapping interactions between the training and test splits are present; however, compound overlapping (or proteins) could be found. This case simulates a virtual screening scenario in which the model predicts proteins or compounds observed during training.
 - New-protein case: No proteins overlapped between the training and test splits. No restrictions were imposed for the compounds. This case simulates a drug-repositioning scenario in which the model predicts unseen proteins.
 - New-compound case: No compounds overlapped between the training and test splits. No restrictions were imposed for the proteins. A virtual screening scenario was simulated, in which the model predicts unseen compounds.
@@ -44,7 +44,7 @@ Openbabel==2.4.1 \
 ## (Optional) Preprocessing datasets for BlendNet (T)
 BlendNet (T) utilizes compound-protein complex structures collected from PDB databases for training. In order to collect high-quality data, we perform the following preprocessing steps
 We provide the preprocessed data via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0), so if preprocessing for new data is not required, you may skip the seven preprocessing steps.
-The code for preprocessing is provided in the '/preprocessing_PDB/' directory.
+The code for preprocessing is provided in the '/preprocessing_PDB/' directory. The preprocessing results for each step are provided via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0).
 
 #### 1. Download protein and ligand structures
 BlendNet (T) utilizes PDBbind, CASF2016, CASF2013, CSAR2014, CSAR2012, CSARset1, CSARset2, Astex, COACH420, and HOLO4K datasets for training and evaluation. Complex structures are collected from the PDB database based on the (PDB ID - Ligand code) of each dataset. Additionally, complexes containing compounds that cannot be analyzed by RDKit or for which IDEAL compound structures cannot be retrieved from PDB (https://files.rcsb.org/ligands) are excluded (see __01.Download protein and ligand structures.ipynb__). 
@@ -68,7 +68,7 @@ As the final step in collecting high-quality data, only complexes where at least
 All data collected through step 6 are integrated to construct the training dataset. To prevent data duplication, complexes from all external test datasets are excluded from the training dataset based on their (PDB ID - Ligand code) (see __07. Get final data.ipynb__). 
 
 ## (Optional) Preprocessing datasets for BlendNet (S)
-BlendNet (S) was trained on the BindingDB database, which provides compound-protein interactions collected from the literature. The related data are also available via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0), so if new data are not required, you may skip the corresponding preprocessing steps. The code for preprocessing is provided in the '/preprocessing_BindingDB/' directory.
+BlendNet (S) was trained on the BindingDB database, which provides compound-protein interactions collected from the literature. The related data are also available via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0), so if new data are not required, you may skip the corresponding preprocessing steps. The code for preprocessing is provided in the '/preprocessing_BindingDB/' directory. The preprocessing results for each step are provided via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0).
 
 #### 1. Preprocessing BindingDB dataset
 Interactions that violate the following seven rules are excluded from the BindingDB v.2023 data. \
@@ -91,7 +91,7 @@ As a result of the preprocessing, the IC50-labeled and Ki-labeled datasets conta
 Compound structure data for graph generation are collected from the PubChem database (see __02. Preprocessing compound data.ipynb__). 
 
 ## Training BlendNet
-The BlendNet framework predicts binding affinity by utilizing compound graphs and predicted protein binding pockets. The predicted binding pockets are extracted using the state-of-the-art sequence-based binding pocket prediction model, Pseq2Sites [3]. Since the original model was trained to work on PDB protein structures, we have retrained it to enable predictions from UniProt sequences. Since the original model was trained to work on PDB protein structures, we have retrained it to enable predictions from UniProt sequences. As with the experimental data and results, we provide the trained weights for all modules. Therefore, if you only wish to obtain prediction results for new compound-protein interactions, you can skip the training process and refer to the Test section.
+The BlendNet framework predicts binding affinity by utilizing compound graphs and predicted protein binding pockets. The predicted binding pockets are extracted using the state-of-the-art sequence-based binding pocket prediction model, Pseq2Sites [3]. Since the original model was trained to work on PDB protein structures, we have retrained it to enable predictions from UniProt sequences. As with the experimental data and results, we provide the trained weights for all modules via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0). Therefore, if you only wish to obtain prediction results for new compound-protein interactions, you can skip the training process and refer to the Test section.
 
 ### 1. Training pocket extractor
 To train Pseq2Sites, input data is first extracted from the collected protein sequences (see __01. Get protein features for pocket prediction training.ipynb__). \
@@ -119,6 +119,8 @@ The training data from the BindingDB dataset is generated using the following th
 The training is conducted in a 3-fold cross-validation setting (see __07.BindingDB_IC50_training.py__ and __08.BindingDB_Ki_training.py__).
 
 ## Test
+To perform testing using the trained model weights, you need to download the data provided via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0) into the 'model_checkpoint' directory.
+
 ### 1. Complex structure datasets test
 Binding affinity predictions are performed on all external test datasets, including the cross-validation datasets. For binding affinity prediction, protein sequence features, predicted binding pocket sequences, and compound molecular graphs are required (see __05.PDBbind_test.py__).
 
