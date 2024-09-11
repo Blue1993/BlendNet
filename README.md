@@ -71,7 +71,7 @@ All data collected through step 6 are integrated to construct the training datas
 BlendNet (S) was trained on the BindingDB database, which provides compound-protein interactions collected from the literature. The related data are also available via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0), so if new data are not required, you may skip the corresponding preprocessing steps. The code for preprocessing is provided in the '/preprocessing_BindingDB/' directory. The preprocessing results for each step are provided via [Dropbox](https://www.dropbox.com/scl/fo/9u9aw7xxjfmk3mnui0rwq/AI7vF-DoqDUM8s6dJR6JOwg?rlkey=5ig47zrxvobz3e3aso7mmww0o&st=w0rgyalx&dl=0).
 
 #### 1. Preprocessing BindingDB dataset
-Interactions that violate the following seven rules are excluded from the BindingDB v.2023 data. \
+Interactions that violate the following seven rules are excluded from the BindingDB v.2023 data.
 1. the protein must consist of only a single chain
 2. the UniProt ID and PubChem CID must be searchable
 3. the length of the protein sequence must not exceed 1,500 based on the UniProt sequence
