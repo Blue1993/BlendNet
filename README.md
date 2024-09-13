@@ -79,7 +79,7 @@ Interactions that violate the following seven rules are excluded from the Bindin
 5. each affinity value must be an exact number, not a range or an approximation
 6. if there are multiple affinity values, the minimum and maximum values must not differ by more than a factor of 100.
 
-The interactions that pass the above rules are divided into IC50 and Ki-labeled datasets (see __01. Preprocessing raw BindingDB dataset.ipynb__). 
+The interactions that pass the above rules are divided into IC50 and Ki-labeled datasets (see __01. Preprocessing raw BindingDB dataset.ipynb__). The raw file for this script is available in Dropbox (BindingDB_All.tsv). 
 
 #### 2. Preprocessing compound data
 From the IC50 and Ki-labeled datasets collected in the previous step, interactions that violate the following three rules are excluded.
